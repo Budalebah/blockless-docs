@@ -8,7 +8,7 @@ This repository hosts the official Blockless documentation.
 
 ## Usage
 
-Visit blockless.network/docs to read the documentation online or follow the instructions below to run it locally.
+Visit blockless.network/docs to read the documentation online or follow the instructions below to run it locally (https://blockless.network/docs)
 
 ## Running Locally
 
